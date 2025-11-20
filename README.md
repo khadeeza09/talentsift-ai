@@ -22,6 +22,12 @@ An AI-powered recruitment tool that analyzes resumes, detects bias in job descri
 
 📸 Output Example
 
+![Output Screenshot](https://github.com/user-attachments/assets/2af635cb-bd9a-4c05-b2b1-7e7008895c34)
+
+![Output Screenshot 2](https://github.com/user-attachments/assets/917d4800-f059-4516-a9f4-5a17f29eab0d)
+
+
+
 📦 Installation
 
 pip install -r requirements.txt
