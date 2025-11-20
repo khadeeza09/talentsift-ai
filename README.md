@@ -1,2 +1,89 @@
-# talentsift-ai
-AI-powered resume screening, bias detection, and smart candidate ranking built with Streamlit.
+🤖 TalentSift AI – Resume Screening & Bias Detection
+
+An AI-powered recruitment tool that analyzes resumes, detects bias in job descriptions, ranks candidates, and gives clear insights — all inside a clean Streamlit dashboard.
+
+🚀 Features
+
+📄 Upload multiple resumes (PDF/DOCX)
+
+🧠 AI-powered ranking using semantic similarity
+
+⚖️ Bias detection in job descriptions
+
+📊 Interactive charts (Plotly)
+
+🧩 Technical & soft skills matching
+
+📝 AI-generated insights for top candidates
+
+📥 Downloadable reports
+
+🎥 Demo video support
+
+📸 Output Example
+
+📦 Installation
+
+pip install -r requirements.txt
+
+▶️ Run the App
+
+streamlit run app.py
+
+📁 Project Structure
+
+📂 TalentSift-AI
+
+│── app.py
+
+│── utils.py
+
+│── advanced_utils.py
+
+│── demo_video.mp4 (optional)
+
+│── requirements.txt
+
+└── README.md
+
+⚙️ Tech Stack
+
+Python
+
+Streamlit
+
+HuggingFace Transformers
+
+Sentence-BERT
+
+Pandas / NumPy
+
+Plotly
+
+🔍 How It Works
+
+Extract text from resumes
+
+Analyze job description for bias
+
+Convert texts into embeddings
+
+Compute semantic similarity
+
+Rank candidates
+
+Generate insights and charts
+
+👩‍💻 Developer
+
+Khadeeza Parween
+
+AI Developer & Data Scientist
+
+🔗 LinkedIn: https://www.linkedin.com/in/khadeeza-parween-1345231a0/
+
+🐙 GitHub: https://github.com/khadeeza-parween
+
+📝 License
+
+Free for personal and educational use.
